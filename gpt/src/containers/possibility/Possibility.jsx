@@ -8,6 +8,5 @@ const Possibility = () => {
     </div>
   )
 }
-import './possibility.css'
 
 export default Possibility
